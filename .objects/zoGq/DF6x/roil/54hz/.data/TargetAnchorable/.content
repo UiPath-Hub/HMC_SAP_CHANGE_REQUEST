@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="s-2GVvashUqg7Ajv20HTRg" DesignTimeRectangle="29, 296, 90, 25" FriendlyName="'Basic data 1'" FullSelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpGRHD' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpGRHD' check:text='Basic data 1' /&gt;" Guid="c4bb0094-0159-4957-a84d-d9d6be60942b" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0d8qz4wh7qk-wGpRdx_mpdw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fff6336c225668d5276722e3da2b4e9f.png" xmlns="">0DCWfcEyIHU-qGQ5F3WBBrA</imageRef>
+</TargetAnchorable>

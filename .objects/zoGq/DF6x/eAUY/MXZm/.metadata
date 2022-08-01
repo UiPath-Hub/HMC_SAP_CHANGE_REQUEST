@@ -1,0 +1,16 @@
+﻿{
+  "Id": "MXZm0gI95kimFk3Iku2wsQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/MXZm0gI95kimFk3Iku2wsQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/eAUY6SlzdES5QgcyrmwBFQ",
+  "Name": "SORT_BUTTON_MIN_TO_MAX",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-04T19:50:55.4989646Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T04:52:42.2510411Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "OG8SjgBJHE-2jTPTanXEYA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/OG8SjgBJHE-2jTPTanXEYA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "UD_04_SELECT_CODE_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T04:35:14.4811339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:35:33.0275909Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

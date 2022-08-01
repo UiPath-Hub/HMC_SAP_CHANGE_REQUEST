@@ -1,0 +1,13 @@
+﻿{
+  "Id": "V0eQr6ecBEafMslZDZcsFQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/V0eQr6ecBEafMslZDZcsFQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/-RGJhaN4TkqKO5knWGAEUQ",
+  "Name": "MOVEMENT_TYPE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-06T06:30:39.9316971Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-06T06:30:39.9316971Z"
+}

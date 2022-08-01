@@ -1,0 +1,13 @@
+﻿{
+  "Id": "3y_dBOWG1Eqq7K9gK4O-9w",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/3y_dBOWG1Eqq7K9gK4O-9w",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/1H8b7-DU8kmJL9FLE52PzQ",
+  "Name": "RESULT_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-04-29T04:13:10.9902792Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:13:10.9902792Z"
+}

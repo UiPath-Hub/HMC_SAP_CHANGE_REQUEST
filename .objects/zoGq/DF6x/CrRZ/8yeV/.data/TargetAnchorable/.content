@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Y8nJrd055kW-BXJru8MopA" DesignTimeRectangle="28, 404, 1779, 539" ElementType="Table" FriendlyName="'TableControl SAPLQEEMSU…'" FullSelectorArgument="&lt;sap id='usr/tabsEE_DATEN/tabpSISP/ssubSUB_EE_DATEN:SAPLQEEM:0202/tblSAPLQEEMSUMPLUS' /&gt;" Guid="24ffdae8-409f-4719-bc5a-c06f608cda5b" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Results: Characteristic Overview' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="8f099845de66c0d5431d4e9b55c923dd.png" xmlns="">0EBtwD1aJGUujGVMKAemSSQ</imageRef>
+</TargetAnchorable>

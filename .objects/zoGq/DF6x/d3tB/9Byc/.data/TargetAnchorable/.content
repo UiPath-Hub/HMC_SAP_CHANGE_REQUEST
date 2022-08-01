@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="-cPeSlxUBkiueAIru3jcNg" DesignTimeRectangle="12, 142, 1912, 877" ElementType="Container" FriendlyName="'MB52_TABLE'" FullSelectorArgument="&lt;sap id='usr' /&gt;" Guid="39603d3e-48c6-45ef-accd-dfb7705b51bd" Reference="3TCQLlkE2UmeUm09C2YCDA/jqOh32ldSEC0VTvtOu76xg" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Warehouse Stocks of Material' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="9e19f863e8f791f6078ce89df8e1cff8.png" xmlns="">0fB_FRPdYZ0qq8kFEeENZnw</imageRef>
+</TargetAnchorable>

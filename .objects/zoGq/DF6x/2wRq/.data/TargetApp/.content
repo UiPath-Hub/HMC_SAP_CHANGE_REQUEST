@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="0N6fJQzIWkCzmlcoETITIw" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" IsExactTitleEnabled="True" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0JuY-Y1Yii06XcreE4AL4uA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="09a0afffc9a940fb52bad008d7188c18.png" xmlns="">0jgHUVc4CwUS4ebJsyu22AQ</imageRef>
+</TargetApp>

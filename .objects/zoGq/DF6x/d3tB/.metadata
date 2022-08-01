@@ -1,0 +1,15 @@
+﻿{
+  "Id": "d3tBbB2S2Em2HUWQDdfnfg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/d3tBbB2S2Em2HUWQDdfnfg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "EXECUTED_MB52_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-07-05T23:05:29.7941174Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-13T10:19:11.258074Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

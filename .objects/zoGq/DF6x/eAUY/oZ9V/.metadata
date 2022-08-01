@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oZ9V3xgFiUaIDd5OjTdJJg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/oZ9V3xgFiUaIDd5OjTdJJg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/eAUY6SlzdES5QgcyrmwBFQ",
+  "Name": "SYSTEM_STATUS_COLUMN",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-04T19:50:55.4529655Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T03:22:55.5455167Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

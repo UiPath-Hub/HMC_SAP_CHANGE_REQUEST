@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ExtractMetadataObjectReference ContentHash="j2xUUx6rok21Zy_9QByYFA" Value="&lt;extract-table get_columns_name='1' preheader_text='' columns_name_source='Displayed' join_type='LeftOuter' null_value_text='(null)' /&gt;" xmlns="clr-namespace:UiPath.UIAutomationNext.Activities.Design.ViewModels;assembly=UiPath.UIAutomationNext.Activities.Design" />

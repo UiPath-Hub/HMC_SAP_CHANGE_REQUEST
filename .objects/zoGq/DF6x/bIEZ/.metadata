@@ -1,0 +1,15 @@
+﻿{
+  "Id": "bIEZzTLv0Ua1D_6PMUYe-A",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/bIEZzTLv0Ua1D_6PMUYe-A",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "UD_04_BATCH_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T04:14:57.9144681Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:17:20.2446827Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

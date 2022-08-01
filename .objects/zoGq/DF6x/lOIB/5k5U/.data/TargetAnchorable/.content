@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="dQaalqn8n0WrjMlm7VNx4g" DesignTimeRectangle="280, 58, 32, 32" ElementType="Button" FriendlyName="'Button Save (Ctrl+S)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[11]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[11]' /&gt;" Guid="3d9afcf0-afdd-4863-84cf-d2934261b8f6" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0T1XD-1AAD0yOky_x9DPhOg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c042737666ee61e39b86018255fca39b.png" xmlns="">05W_YNF3jzEaZR0VI2QcbJQ</imageRef>
+</TargetAnchorable>

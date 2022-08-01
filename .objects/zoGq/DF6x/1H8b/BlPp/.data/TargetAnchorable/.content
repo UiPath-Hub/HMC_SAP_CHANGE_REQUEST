@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="y1mme0ir4ECtauaWBjpxNQ" DesignTimeRectangle="542, 111, 166, 28" ElementType="Button" FriendlyName="'Usage decision (UD)'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[41]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[41]' check:text='Usage decision (UD)' /&gt;" Guid="ccb9296c-32cf-48d0-959e-3c1948aa07ee" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Change data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0-v5yBOhQVECZpcPgFk5eYA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6ff9b37b77c697251e5cb95ab69b4e93.png" xmlns="">0cPXaw2zgfEuBj-evKxc85w</imageRef>
+</TargetAnchorable>

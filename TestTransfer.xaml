@@ -1,0 +1,117 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="TestTransgfer" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="466,866" sap2010:WorkflowViewState.IdRef="TestTransgfer_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="60">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Database.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Word.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="TestTransgfer" sap:VirtualizedContainerService.HintSize="476,801" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="astrTransferOrder" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="USAGE_DECISION_04_SCREEN" sap:VirtualizedContainerService.HintSize="434,578" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="8e731f9e-3974-4104-9ed5-1ce809731198" Version="V1">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,249" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NGetText DisplayName="Get Text 'TRANSFER_ORDER'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NGetText_1" Version="V1">
+              <uix:NGetText.Target>
+                <uix:TargetAnchorable ContentHash="_lo-G4H5TkKeu9XdYvhVbw" DesignTimeRectangle="16, 1021, 1887, 27" FriendlyName="'Transfer Order'" FullSelectorArgument="&lt;sap id='sbar/pane[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='sbar/pane[0]' check:text='Transfer Order of this batch60116934  is still ope' /&gt;" Guid="1df69c86-3a67-458a-966b-93da3fdc753c" ImageBase64="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" Reference="3TCQLlkE2UmeUm09C2YCDA/eVgRQKzlPkmgMJAjwQwP9g" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Selector, FuzzySelector" />
+              </uix:NGetText.Target>
+              <uix:NGetText.Text>
+                <OutArgument x:TypeArguments="x:String">[astrTransferOrder]</OutArgument>
+              </uix:NGetText.Text>
+            </uix:NGetText>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 0, 0" ContentHash="3qWHSs5v3Eec_Esq9N2Ulw" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE1SURBVFhHY/j//z/jQOJRB4w6YNQBA+8Ap5rV7E7Vqw8OCK5ZU8jgVL2GE8j4PwB4rXPtGsGBcgDIcmFIFNDfAXDLwQ44dOqipWP16v+O1auohFcDLQFhwpaDHfD20/fP9198/E8NvPf8vf9+DTBHELYc7ID3X37+pwY+e/Pxf7+K2f/tShdhcwBWy6nmgAu3n/73Lp3x37Z4AbYoWA+0XBCb5SBMsQPOAy33LJ72365kITafr3epW4vTchCmyAEgn3uWTIdavgrZ4r/EWA7CDA+evy1tW7Lvf8uiXSTi3f99yoFxToHlIMxglTuD075i2X/78qUkY4fK5ejBDrbcuQ53nKNjahZEUJ8TbzkIU8sBJPschqnlAKLjHB1TXh3XrJlJruUgPNoiGnXAqANGugP+MwIA+QFnw3tJZtEAAAAASUVORK5CYII=" InformativeScreenshot="dda3991047731e6c90491bef4ef70c25.png" Reference="3TCQLlkE2UmeUm09C2YCDA/lOIB0EXJd0m_ztMHnR3f9Q" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview'/&gt;" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[astrTransferOrder]" />
+  </Sequence>
+</Activity>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="x91iDQuTFUGrzQx7h5ApAw" DesignTimeRectangle="228, 48, 26, 26" ElementType="Button" FriendlyName="'Button Post (Ctrl+S)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[11]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[11]' /&gt;" Guid="dc033232-118f-49fa-98dd-c0441b592ceb" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Enter Transfer Posting: New Items' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">09N3Lab6QLEqUEP9TKlxqXQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0c6f19f43f65debc1b8b690485e9f19e.png" xmlns="">0DFF3I-E8pE29-2JD4I4_kg</imageRef>
+</TargetAnchorable>

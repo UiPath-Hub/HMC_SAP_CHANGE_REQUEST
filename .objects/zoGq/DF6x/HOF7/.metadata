@@ -1,0 +1,15 @@
+﻿{
+  "Id": "HOF7etff1E6T50O9GfJy-w",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/HOF7etff1E6T50O9GfJy-w",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "ZQA33_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T02:26:03.3138394Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-14T09:11:26.3189582Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

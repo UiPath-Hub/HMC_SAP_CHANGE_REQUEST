@@ -1,0 +1,13 @@
+﻿{
+  "Id": "fBqGsppRHUWyvbuXtnBLrg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/fBqGsppRHUWyvbuXtnBLrg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/2wRqvNOulEyFV9xE_cvH9A",
+  "Name": "SEARCH_MENU_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-30T09:42:47.4933726Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:42:47.4933726Z"
+}

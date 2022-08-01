@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Txat9-rQXECZTJa0mBLLKg" DesignTimeRectangle="88, 260, 170, 20" ElementType="InputBox" FriendlyName="'CTextField Material'" FullSelectorArgument="[String.Format(&quot;&lt;sap id='usr/sub:SAPMM07M:0421/ctxtMSEG-MATNR[{0},7]' /&gt;&quot;, strRow)]" FuzzySelectorArgument="[String.Format(&quot;&lt;sap id='usr/sub:SAPMM07M:0421/ctxtMSEG-MATNR[{0},7]' /&gt;&quot;, strRow)]" Guid="af16278b-4ef6-4fac-91a8-c04265cba240" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Enter Transfer Posting: New Items' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0YYadGEw00UC2G_paWPz0Zg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="31b2ee9b02b8de5a8fe1e6c35c6d6389.png" xmlns="">01ObdUB-4M0CWqlPsjlHj0A</imageRef>
+</TargetAnchorable>

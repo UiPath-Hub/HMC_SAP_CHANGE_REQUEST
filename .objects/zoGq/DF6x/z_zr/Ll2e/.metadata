@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Ll2ecBUwvUe9sPHC5UfWZA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/Ll2ecBUwvUe9sPHC5UfWZA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/z_zrj3uWlkaWucEO-FyD-w",
+  "Name": "saplogon.exe Record",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T02:54:19.8406577Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T02:54:19.8406577Z"
+}

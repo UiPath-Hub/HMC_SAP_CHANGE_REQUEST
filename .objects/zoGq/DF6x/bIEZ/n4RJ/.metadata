@@ -1,0 +1,13 @@
+﻿{
+  "Id": "n4RJ-Zt7Dkq4Qrj-nbeP0Q",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/n4RJ-Zt7Dkq4Qrj-nbeP0Q",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/bIEZzTLv0Ua1D_6PMUYe-A",
+  "Name": "PRODUCTION_DATE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-04-29T04:17:21.736994Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:17:21.736994Z"
+}

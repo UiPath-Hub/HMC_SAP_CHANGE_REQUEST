@@ -1,0 +1,13 @@
+﻿{
+  "Id": "IKFpnUeRUkG6Ly5LAMJt3w",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/IKFpnUeRUkG6Ly5LAMJt3w",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/FIh9FmunUkudeUTu1cmrLQ",
+  "Name": "SAVE_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-08T02:54:07.684077Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-08T02:54:07.684077Z"
+}

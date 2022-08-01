@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="3fTUOS7gJkucW4y1kTuFow" DesignTimeRectangle="0, 0, 1936, 1056" FriendlyName="'Display Results:'" Guid="029ac97b-30cb-46a7-a395-1905c5418f87" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Results: Characteristic Overview' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.FuzzySelectorArgument>
+    <p:InArgument x:TypeArguments="x:String">
+      <p:Literal x:TypeArguments="x:String" Value="" />
+    </p:InArgument>
+  </TargetAnchorable.FuzzySelectorArgument>
+  <imageRef attrName="ImageBase64" xmlns="">0pvyS1BITRUqGuCUWh0P6SA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7d36110138c19b272a5608efe2e51905.png" xmlns="">0QNLVIRBGxkKWv01wqjDzyg</imageRef>
+</TargetAnchorable>

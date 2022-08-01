@@ -1,0 +1,14 @@
+﻿{
+  "Id": "J6RCMxwft0GbJ5-1BsB-Ig",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/J6RCMxwft0GbJ5-1BsB-Ig",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/7ENigTi3fE-U7mFhwCyEag",
+  "Name": "SCREEN_SHOT_CLASSIFICATION",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-15T09:15:14.8566359Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-15T09:15:14.8566359Z"
+}

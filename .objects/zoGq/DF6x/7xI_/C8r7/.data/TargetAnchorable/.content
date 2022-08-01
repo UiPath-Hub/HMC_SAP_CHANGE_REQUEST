@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BzQ4H4tKw0aUFceUmHJs-g" DesignTimeRectangle="322, 172, 188, 20" ElementType="InputBox" FriendlyName="'610*.0000*'" FullSelectorArgument="&lt;sap id='usr/ctxtMATNR-LOW' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtMATNR-LOW' /&gt;" Guid="528b6c84-2499-49f2-98c4-7573938656b1" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Warehouse Stocks of Material' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Z3-lH-00J0aPoFz-H5_g6Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1998f9c8d400b7a8f6cabf18be7a7021.png" xmlns="">0ZuLC82Y-H0uUOKryAr8wxg</imageRef>
+</TargetAnchorable>

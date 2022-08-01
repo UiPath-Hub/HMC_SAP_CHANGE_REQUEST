@@ -1,0 +1,13 @@
+﻿{
+  "Id": "C8r72GC2bEKQSonneht-pw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/C8r72GC2bEKQSonneht-pw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/7xI_kHFyX0yRRd21E8QChA",
+  "Name": "MATERIAL_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-05T23:02:47.0656849Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T23:02:47.0656849Z"
+}

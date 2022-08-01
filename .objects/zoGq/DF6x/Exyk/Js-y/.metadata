@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Js-yutpqeku0Hro2Uni0ZQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/Js-yutpqeku0Hro2Uni0ZQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/ExykpAcxvUGJTnYYrS0zzA",
+  "Name": "SAP_QAS",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-06-30T09:18:44.2035832Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:18:44.2035832Z"
+}

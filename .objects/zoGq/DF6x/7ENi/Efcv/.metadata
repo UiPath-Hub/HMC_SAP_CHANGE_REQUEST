@@ -1,0 +1,13 @@
+﻿{
+  "Id": "EfcvxFLyv0Omvv4_iO_rSA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/EfcvxFLyv0Omvv4_iO_rSA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/7ENigTi3fE-U7mFhwCyEag",
+  "Name": "PASSWORD_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2022-06-30T09:22:24.934799Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:22:24.934799Z"
+}

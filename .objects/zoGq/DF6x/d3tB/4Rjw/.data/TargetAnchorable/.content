@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="T9myLJ7Ef0CDN-Zr_S0NDQ" DesignTimeRectangle="96, 111, 28, 28" ElementType="Button" FriendlyName="'Button Sort'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[40]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[40]' /&gt;" Guid="bdf717ff-f61f-4463-b676-c0047d41f6f0" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Warehouse Stocks of Material' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">04MR1iPKju0WQSpcCAGNDCA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="67b81c7c450ab57aa1d6a86351a90287.png" xmlns="">08L50CPUPWU-NCVXrYiubfA</imageRef>
+</TargetAnchorable>

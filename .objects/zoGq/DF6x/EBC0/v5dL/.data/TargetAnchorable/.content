@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="4T12DU2TqEi0lDZaNfPOmw" DesignTimeRectangle="78, 124, 143, 28" ElementType="Toolbar" FriendlyName="'Yes'" FullSelectorArgument="&lt;sap id='usr/btnSPOP-OPTION1' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/btnSPOP-OPTION1' check:text='Yes' /&gt;" Guid="b65e7103-1daa-4d16-bee6-8dd78e711916" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Confirmation prompt' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0gsbzFS1rg0-vYgKsYnEEiA</imageRef>
+</TargetAnchorable>

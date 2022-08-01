@@ -1,0 +1,13 @@
+﻿{
+  "Id": "kB3UtLR0xkisGnLFaexsEQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/kB3UtLR0xkisGnLFaexsEQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/MFRq4ssHqE6LlmE21Ry5Lw",
+  "Name": "SLOC_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-07T02:30:57.0934076Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-07T02:30:57.0934076Z"
+}

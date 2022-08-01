@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uO2rONmd-EWfPKErS5WlKA" DesignTimeRectangle="77, 77, 75, 21" FriendlyName="'A'" FullSelectorArgument="[String.Format(&quot;&lt;sap id='usr/cntlTREE_CONTROL_AREA/shellcont/shell' relpath='Decision/WO-LAB/{0}' /&gt;&lt;sap itemId='1' /&gt;&quot;, strUDinspectionLot)]" FuzzySelectorArgument="[String.Format(&quot;&lt;sap id='usr/cntlTREE_CONTROL_AREA/shellcont/shell' relpath='Decision/WO-LAB/{0}' /&gt;&lt;sap itemId='1' check:text='{0}' /&gt;&quot;, strUDinspectionLot)]" Guid="d3b5d15e-1b10-4634-93fc-d7bc4d50ed78" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Usage Decision for Inspection Lot' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0a-o87WgSFECWBur5GDfh3g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e973a7fa1bc198cf0f739f5e1f5bac8f.png" xmlns="">0XaUgQ7Of3kq8pNRvjQQF4w</imageRef>
+</TargetAnchorable>

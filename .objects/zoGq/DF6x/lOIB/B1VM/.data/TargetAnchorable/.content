@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable Accuracy="0.85" ContentHash="K-7qEmqbkES2qrdSYan3Aw" DesignTimeRectangle="292, 823, 24, 31" FriendlyName="'saplogon.exe Record'" Guid="de322d5c-b303-4e77-8219-f68ce72d9ee3" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Image" TargetType="ImageBased" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="42, 826, 191, 26" ElementType="Text" FriendlyName="'UD code'" FullSelectorArgument="&lt;sap id='usr/tabsUD_DATA/tabpPLMK/ssubSUB_UD_DATA:SAPMQEVA:0101/ssubUD_DATA:SAPMQEVA:1103/lblRQEVA-VCODE' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/tabsUD_DATA/tabpPLMK/ssubSUB_UD_DATA:SAPMQEVA:0101/ssubUD_DATA:SAPMQEVA:1103/lblRQEVA-VCODE' check:text='UD code' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1MsCjXaAvFUGI-qbkJMP0KA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nLVF3kw1e0qIUy44ADyPQQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8fb0d2e8c18de54d8e024771b8177775.png" xmlns="">0ImBkZO_0K0WrFPgbClMuwg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PcruXJn9Gkia5yRJdKsS_w" DesignTimeRectangle="0, 0, 1936, 1056" FriendlyName="'Display Batch'" Guid="c2475c71-8682-42f2-bb3b-3e976f905912" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.FuzzySelectorArgument>
+    <p:InArgument x:TypeArguments="x:String">
+      <p:Literal x:TypeArguments="x:String" Value="" />
+    </p:InArgument>
+  </TargetAnchorable.FuzzySelectorArgument>
+  <imageRef attrName="ImageBase64" xmlns="">0L81zQ1AYRUKq0_f7HW62LQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5072c9104654eb8f1625c1aa95da216d.png" xmlns="">0Rnv-ajMgD0SUcDP9ZkvFJA</imageRef>
+</TargetAnchorable>

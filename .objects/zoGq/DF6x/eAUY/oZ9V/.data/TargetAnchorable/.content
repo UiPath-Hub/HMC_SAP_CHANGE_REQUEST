@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="TyC6o9A3x0iat8-eRF_60g" DesignTimeRectangle="1036, 144, 176, 19" FriendlyName="'System Status'" FullSelectorArgument="&lt;sap colName='STTXT' id='usr/cntlGRID1/shellcont/shell' /&gt;" FuzzySelectorArgument="&lt;sap colName='STTXT' id='usr/cntlGRID1/shellcont/shell' check:text='System Status' /&gt;" Guid="ef8c859a-8d26-478c-937c-1b558768ba98" Reference="3TCQLlkE2UmeUm09C2YCDA/oZ9V3xgFiUaIDd5OjTdJJg" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0pZpHqH5PCES6mR-itjaTLg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="237dcb6a000065b75d4e9693e3c50904.png" xmlns="">0Bs5nvcdNu0yCzEkkst8Tow</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="H84G3iLjYkimNrq4gpiXiQ" DesignTimeRectangle="265, 296, 90, 25" FriendlyName="'Classification'" FullSelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpCLAS' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpCLAS' check:text='Classification' /&gt;" Guid="393b096c-aadf-452d-b92e-36ac105724d7" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0MMmyH922fkSW1fF-28CcnA</imageRef>
+</TargetAnchorable>

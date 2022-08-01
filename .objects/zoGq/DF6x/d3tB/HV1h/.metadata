@@ -1,0 +1,13 @@
+﻿{
+  "Id": "HV1h0tBQE0eoWGTTmriqqg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/HV1h0tBQE0eoWGTTmriqqg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/d3tBbB2S2Em2HUWQDdfnfg",
+  "Name": "QUALITY_INSPECTION_COLUMN",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-07-05T23:10:15.5994214Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T23:10:15.5994214Z"
+}

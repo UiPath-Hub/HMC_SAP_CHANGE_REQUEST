@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="ITX82WNALEuA_8O2YoH_Lw" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0jkSDr7DtgkC_Btuj7z5Jqw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a315c39855a785aae4812f18cb584947.png" xmlns="">0UXUSX5V2OEyqVvuGrpeJWg</imageRef>
+</TargetApp>

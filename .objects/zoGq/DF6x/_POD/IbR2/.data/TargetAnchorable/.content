@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable Accuracy="0.9" ContentHash="bGERb27ovEGJds7ISVPfcA" DesignTimeRectangle="488, 134, 32, 24" ElementType="Toolbar" FriendlyName="'Button Continue (Enter)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" Guid="1a5a3322-1bf9-4d13-8571-b7436483ad85" Reference="3TCQLlkE2UmeUm09C2YCDA/IbR2GaSwHE-GFLUXHYoSQA" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Information' idx='*' /&gt;" SearchSteps="Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0cAvo8xeo-UeXefyDb2bEBg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9ebb1928d36e27862d484824f906647b.png" xmlns="">0vu90UtlxaEWuEw8P3txxGQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "PK4SBANpF06MCW1XygSGEg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/PK4SBANpF06MCW1XygSGEg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/4iCRQefDY0eci9JaWbafyQ",
+  "Name": "BACK_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-04T21:00:12.0174665Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T21:00:12.0174665Z"
+}

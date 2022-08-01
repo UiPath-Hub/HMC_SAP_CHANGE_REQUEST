@@ -1,0 +1,13 @@
+﻿{
+  "Id": "4RjwY1WZek29r_ot648RCw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/4RjwY1WZek29r_ot648RCw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/d3tBbB2S2Em2HUWQDdfnfg",
+  "Name": "SORT_MAX_TO_MIN_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-05T23:10:15.6517335Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T23:10:15.6517335Z"
+}

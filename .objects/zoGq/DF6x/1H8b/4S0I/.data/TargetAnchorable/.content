@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uXymEMXfd02dZN8sptgzLw" DesignTimeRectangle="266, 48, 26, 26" ElementType="Button" FriendlyName="'Button Back (F3)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" Guid="2e0c3907-6c73-4b84-9cf7-0ecedd888573" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Change data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0HRc90pyEbEyUm1TpACGasA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ec0c8d642dca51d433475fff97712b5d.png" xmlns="">040Wlq5oOVka55UR9S1iPHA</imageRef>
+</TargetAnchorable>

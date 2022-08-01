@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="wCaPtvQ4AkmHWjra_jlWsw" DesignTimeRectangle="294, 406, 491, 26" ElementType="Text" FriendlyName="'TextField Short'" FullSelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpSNST/ssubSUBSCR_BODY:SAPLCHRG:2200/txtDFBATCH-KZTXT' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpSNST/ssubSUBSCR_BODY:SAPLCHRG:2200/txtDFBATCH-KZTXT' /&gt;" Guid="920c99e7-7a0a-44c9-9eb8-432faf148740" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0uqFgETAPWUe12IkcYmDp8g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2d6b6d042638006b3187f744a7209435.png" xmlns="">0Q_JrCXGl-UONcw7PE9Dytg</imageRef>
+</TargetAnchorable>

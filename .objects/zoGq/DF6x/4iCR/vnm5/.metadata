@@ -1,0 +1,14 @@
+﻿{
+  "Id": "vnm506-uhE2xLtMrpKZcBg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/vnm506-uhE2xLtMrpKZcBg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/4iCRQefDY0eci9JaWbafyQ",
+  "Name": "RESULT_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-04T21:07:49.3212631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T21:07:49.3212631Z"
+}

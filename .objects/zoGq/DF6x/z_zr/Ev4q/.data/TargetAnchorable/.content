@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="z_4BzbQQj0SWTL-UEDVlXw" DesignTimeRectangle="178, 876, 62, 20" ElementType="InputBox" FriendlyName="'CTextField Usage'" FullSelectorArgument="&lt;sap id='usr/tabsUD_DATA/tabpPLMK/ssubSUB_UD_DATA:SAPMQEVA:0101/ssubUD_DATA:SAPMQEVA:1103/ctxtRQEVA-VCODE' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/tabsUD_DATA/tabpPLMK/ssubSUB_UD_DATA:SAPMQEVA:0101/ssubUD_DATA:SAPMQEVA:1103/ctxtRQEVA-VCODE' /&gt;" Guid="24676994-8c7a-40f9-9e13-8dc74eac9b07" Reference="3TCQLlkE2UmeUm09C2YCDA/Ev4qMHpmM0CYZLelVs1YbA" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0oDbmrD2TF061rW_DXqFUGQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6dcbc2bb3d90673d8786f38dde1b7bd2.png" xmlns="">0zK1xcOKd3UaQoenXqIsHbA</imageRef>
+</TargetAnchorable>

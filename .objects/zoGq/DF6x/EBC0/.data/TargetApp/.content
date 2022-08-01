@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="CMVTdKqFm0qL9zolpsVD-A" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" Selector="&lt;wnd app='saplogon.exe' cls='#32770' title='Confirmation prompt' idx='*'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0D4zuMySWVkWsIQ2BYUVCZQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ee28b51a1bdafb7ecfb67fff47258425.png" xmlns="">0PSQ-75fjtk-LorCdX83qNQ</imageRef>
+</TargetApp>

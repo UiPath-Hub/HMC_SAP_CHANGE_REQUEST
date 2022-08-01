@@ -1,0 +1,14 @@
+﻿{
+  "Id": "2wRqvNOulEyFV9xE_cvH9A",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/2wRqvNOulEyFV9xE_cvH9A",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "MENU_EASY_ACCESS_SCREEN",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-06-30T09:42:40.3403493Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:42:40.3403493Z"
+}

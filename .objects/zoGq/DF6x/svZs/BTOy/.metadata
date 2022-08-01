@@ -1,0 +1,13 @@
+﻿{
+  "Id": "BTOybMLYo0untEGglWAOiw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/BTOybMLYo0untEGglWAOiw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/svZsHP7Gt0-J28OzoQf-xw",
+  "Name": "UD_INSPECTION_LOT",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:04:13.2160278Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:04:13.2160278Z"
+}

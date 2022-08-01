@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ExykpAcxvUGJTnYYrS0zzA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/ExykpAcxvUGJTnYYrS0zzA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "SAP_CONNECTION_SCREEN",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-06-30T09:18:36.382056Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:18:36.382056Z"
+}

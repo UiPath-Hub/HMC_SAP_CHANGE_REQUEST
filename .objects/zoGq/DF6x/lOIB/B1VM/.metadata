@@ -1,0 +1,13 @@
+﻿{
+  "Id": "B1VMUFdCxk62zqp_6G3cMg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/B1VMUFdCxk62zqp_6G3cMg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/lOIB0EXJd0m_ztMHnR3f9Q",
+  "Name": "UD_CODE_ICON",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:32:26.7414313Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:32:26.7414313Z"
+}

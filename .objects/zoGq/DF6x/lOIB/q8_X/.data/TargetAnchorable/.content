@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="TDbk57lDI0WrJvlq5frMFQ" DesignTimeRectangle="324, 58, 32, 32" ElementType="Button" FriendlyName="'Button Back (F3)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" Guid="3984175b-d8a3-4c4c-bf67-f9962dea07e2" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">06JJHHsV4h0OaVq8kGB8mlA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="210e1bacc1d1ee08c5a9805afc4d2816.png" xmlns="">0671lJQle2EWRpFoDxfipqA</imageRef>
+</TargetAnchorable>

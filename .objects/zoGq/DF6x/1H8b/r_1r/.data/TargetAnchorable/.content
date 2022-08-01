@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="qwX6mDJE902GbwyGbaGK-w" DesignTimeRectangle="476, 144, 72, 19" FriendlyName="'Blocked stock'" FullSelectorArgument="&lt;sap colName='LMENGE04' id='usr/cntlGRID1/shellcont/shell' /&gt;" FuzzySelectorArgument="&lt;sap colName='LMENGE04' id='usr/cntlGRID1/shellcont/shell' check:text='Blocked stock' /&gt;" Guid="fe2538ac-7627-48e3-8c08-d7dbb8f5eea1" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0WkauRs68c0ilYYosswDszw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="07f6838a2f22a42ebf6c50782ede0f04.png" xmlns="">088Ragux9yUmjnkT5kT4QEw</imageRef>
+</TargetAnchorable>

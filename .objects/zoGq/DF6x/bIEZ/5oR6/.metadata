@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5oR6UZCrlk23oo3tX_F__w",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/5oR6UZCrlk23oo3tX_F__w",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/bIEZzTLv0Ua1D_6PMUYe-A",
+  "Name": "CLASSIFICATION_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-04-29T04:19:24.8505808Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:19:24.8505808Z"
+}

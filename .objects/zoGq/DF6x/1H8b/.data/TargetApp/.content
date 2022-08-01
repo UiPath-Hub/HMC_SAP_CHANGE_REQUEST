@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="-bfJICnIw02sKdRYAmT4Uw" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0P_w0iIC3CESjisnX_5i6WA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3cd9cd918c606be20348b11f1851df5c.png" xmlns="">0fbo3Wep6h0iiJ4ewF7EQ0Q</imageRef>
+</TargetApp>

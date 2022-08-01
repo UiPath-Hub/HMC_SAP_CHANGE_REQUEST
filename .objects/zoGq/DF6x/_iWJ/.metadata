@@ -1,0 +1,15 @@
+﻿{
+  "Id": "_iWJ0zJf8UOVjmbn9GamKw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/_iWJ0zJf8UOVjmbn9GamKw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "POP_UP_UD_CODE_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T03:59:59.9611549Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:00:44.402017Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="rFDll1kwBE2lApMEQxA5SA" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" Selector="&lt;wnd app='saplogon.exe' cls='#32770' title='Usage Decision for Inspection Lot' idx='*'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">04Tj6inNPqUSAHcewUmMn1Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d2c6139812457f86328cef3b6b44e2b4.png" xmlns="">0wXS_hanrRkakBbKnTHxzUA</imageRef>
+</TargetApp>

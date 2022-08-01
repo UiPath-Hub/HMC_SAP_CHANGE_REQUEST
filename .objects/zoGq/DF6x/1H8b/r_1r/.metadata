@@ -1,0 +1,13 @@
+﻿{
+  "Id": "r_1r8HhA80CEurFsfdoUww",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/r_1r8HhA80CEurFsfdoUww",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/1H8b7-DU8kmJL9FLE52PzQ",
+  "Name": "BLOCKED_STOCK_COLUMN",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-05T09:17:56.2802033Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T09:17:56.2802033Z"
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="k2WQvFMjp0C0Iwxargtm2A" DesignTimeRectangle="52, 544, 819, 302" ElementType="Table" FriendlyName="'CLASSIFICATION_TABLE'" FullSelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpCLAS/ssubSUBSCR_BODY:SAPLCHRG:2300/ssubSUBSCR_CLASS:SAPLCTMS:5000/tabsTABSTRIP_CHAR/tabpTAB1/ssubTABSTRIP_CHAR_GR:SAPLCTMS:5100/tblSAPLCTMSCHARS_S' /&gt;" Guid="65d7f349-c18d-4578-8785-a0eaa242bfbf" Reference="3TCQLlkE2UmeUm09C2YCDA/ZehJtQYi1020dmp4eirhvA" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="48b0c9640317e075d97d63b36414736b.png" xmlns="">0UGqVGM_qPkixTvwra8AHBw</imageRef>
+</TargetAnchorable>

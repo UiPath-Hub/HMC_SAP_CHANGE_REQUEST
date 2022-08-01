@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="KBv8JWJ140-SrAwwhujL7g" DesignTimeRectangle="12, 142, 1912, 877" FriendlyName="'UD_03_TABLE'" FullSelectorArgument="&lt;sap id='usr/cntlGRID1/shellcont/shell' /&gt;" Guid="dd511e7a-483c-4365-a06d-5b50baf9f761" Reference="3TCQLlkE2UmeUm09C2YCDA/6S_CuVUMw0GpYz-pkgrRMw" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" WaitForReadyArgument="Complete" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="b9258d8e87da107b49ba49a16d30dba4.png" xmlns="">0ycFB2eDsm0-bqpeIVnH2Eg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "mwl4Chok2kGkQ2AaFMaJYg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/mwl4Chok2kGkQ2AaFMaJYg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/1H8b7-DU8kmJL9FLE52PzQ",
+  "Name": "ROW_SELECT",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-05T20:19:05.3466719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T20:19:05.3466719Z"
+}

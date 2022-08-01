@@ -1,0 +1,13 @@
+﻿{
+  "Id": "xXvyjBNpVkW9KzIBSUm0ig",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/xXvyjBNpVkW9KzIBSUm0ig",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/bIEZzTLv0Ua1D_6PMUYe-A",
+  "Name": "BASIC_DATA1_TAB",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:17:20.8437855Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:17:20.8437855Z"
+}

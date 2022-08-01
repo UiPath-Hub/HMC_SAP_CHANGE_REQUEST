@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="jFskFmmamUyDQNHFq7v3Qg" DesignTimeRectangle="52, 544, 819, 302" ElementType="Table" FriendlyName="'TableControl SAPLCTMSCH…'" FullSelectorArgument="&lt;sap id='usr/subSUBSCR_BATCH_MASTER:SAPLCHRG:1111/subSUBSCR_TABSTRIP:SAPLCHRG:2000/tabsTS_BODY/tabpCLAS/ssubSUBSCR_BODY:SAPLCHRG:2300/ssubSUBSCR_CLASS:SAPLCTMS:5000/tabsTABSTRIP_CHAR/tabpTAB1/ssubTABSTRIP_CHAR_GR:SAPLCTMS:5100/tblSAPLCTMSCHARS_S' /&gt;" Guid="88cc7300-b345-449f-9dca-38ab45505c44" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Batch' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="c6f0f5ba51c5af8a113ec1831b34127e.png" xmlns="">0dcxWuyNJEUKg3idCAgz1Uw</imageRef>
+</TargetAnchorable>

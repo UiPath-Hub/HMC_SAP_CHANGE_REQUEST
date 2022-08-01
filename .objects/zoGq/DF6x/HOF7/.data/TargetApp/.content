@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="2bhYEtRX5EW5OczHC3r_zg" FilePath="C:\Program Files (x86)\SAP\FrontEnd\SAPgui\saplogon.exe" Reference="3TCQLlkE2UmeUm09C2YCDA/HOF7etff1E6T50O9GfJy-w" Selector="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Inspection Lot Selection(New)' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">08RAJfDi5Z0WpsiG4MVXybA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b01afe3d8a7215975e27b2ca4f898900.png" xmlns="">0YwhEUgErfkiIebHeBSgvMg</imageRef>
+</TargetApp>

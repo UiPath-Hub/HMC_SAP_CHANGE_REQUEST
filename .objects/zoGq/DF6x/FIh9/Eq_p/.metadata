@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Eq_pMrsVSEeofTPPalmhOg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/Eq_pMrsVSEeofTPPalmhOg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/FIh9FmunUkudeUTu1cmrLQ",
+  "Name": "MATERIAL_CODE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-08T02:53:12.1019831Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-08T02:53:12.1019831Z"
+}

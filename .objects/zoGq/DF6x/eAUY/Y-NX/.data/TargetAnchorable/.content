@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="R1_a056_0EGadqXV_J2ZAQ" DesignTimeRectangle="13, 163, 23, 19" FriendlyName="'SAPGUI.GridViewCtrl.1'" FullSelectorArgument="[String.Format(&quot;&lt;sap id='usr/cntlGRID1/shellcont/shell' tableRow='{0}' /&gt;&quot;, strRow)]" FuzzySelectorArgument="&lt;sap id='usr/cntlGRID1/shellcont/shell' check:text='SAPGUI.GridViewCtrl.1' /&gt;" Guid="71e4a753-ff20-4824-96e4-6939b904b1fc" Reference="3TCQLlkE2UmeUm09C2YCDA/Y-NXzh2nLUSTyephcBfopA" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0uFeYeqwFy0mM17d6d0HSfQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="80f5e7f6cb419b6aaa21fcc12544bdb6.png" xmlns="">0n-K-MltshEOsqMGP8xMhgw</imageRef>
+</TargetAnchorable>

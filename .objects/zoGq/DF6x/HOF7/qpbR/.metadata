@@ -1,0 +1,13 @@
+﻿{
+  "Id": "qpbRrwTruEes9Ffsp24nTA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/qpbRrwTruEes9Ffsp24nTA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/HOF7etff1E6T50O9GfJy-w",
+  "Name": "SELECT_INSPECTION_LOTS_RADIO_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T02:28:09.5781879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T02:28:09.5781879Z"
+}

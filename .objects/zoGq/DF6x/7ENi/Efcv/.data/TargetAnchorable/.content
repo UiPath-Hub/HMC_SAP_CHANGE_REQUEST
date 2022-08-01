@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="2sGQJpo0fUmcPl_fnZSgUw" DesignTimeRectangle="258, 266, 155, 26" ElementType="InputBoxPassword" FriendlyName="'PasswordField Password'" FullSelectorArgument="&lt;sap id='usr/pwdRSYST-BCODE' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/pwdRSYST-BCODE' /&gt;" Guid="b48f4f46-a189-49c9-8a93-2c60d779f264" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0KEwS1_dmsEeMv0M84-UAeg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="24b44505187c81dcfbc42c3d808bafb9.png" xmlns="">0_lEW8A9Ikk64aljl29vPog</imageRef>
+</TargetAnchorable>

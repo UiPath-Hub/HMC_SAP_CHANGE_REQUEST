@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="Z7TC5xzFAUOC5yuI9RMk0w" DesignTimeRectangle="178, 282, 35, 20" ElementType="InputBox" FriendlyName="'CTextField Movement'" FullSelectorArgument="&lt;sap id='usr/ctxtRM07M-BWARTWA' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtRM07M-BWARTWA' /&gt;" Guid="949691a9-e85f-454a-bb8a-79b194e24918" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Enter Transfer Posting: Initial Screen' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">03dmoSYso5EyMQvFXBI2W_A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="318fd082fce78b94cf4edd547b316bed.png" xmlns="">0A3gsaYkZU0qdx9Ua5-TJ9w</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DO9qUkNoK0mybxJtliWNRw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/DO9qUkNoK0mybxJtliWNRw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/eAUY6SlzdES5QgcyrmwBFQ",
+  "Name": "BATCH",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-04T19:41:00.6344238Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T03:22:25.0147884Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

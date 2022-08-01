@@ -1,0 +1,13 @@
+﻿{
+  "Id": "irYKgVCJ4Uab0YMfkvQ_5w",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/irYKgVCJ4Uab0YMfkvQ_5w",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/FIh9FmunUkudeUTu1cmrLQ",
+  "Name": "QUANTITY_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-07-08T02:53:12.3289871Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-08T02:53:12.3289871Z"
+}

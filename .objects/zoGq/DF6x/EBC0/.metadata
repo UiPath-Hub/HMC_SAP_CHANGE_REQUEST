@@ -1,0 +1,15 @@
+﻿{
+  "Id": "EBC017qmOE2NL1X-QBCDAQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/EBC017qmOE2NL1X-QBCDAQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "UD_04_POP_UP_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T04:33:26.8268193Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:34:23.7582762Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

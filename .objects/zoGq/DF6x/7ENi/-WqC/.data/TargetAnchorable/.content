@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="IAfevO7930Ctgx3YY52tQg" DesignTimeRectangle="0, 0, 1936, 1056" FriendlyName="'SAP'" Guid="c2048784-10f6-4ee1-b778-40ad66bc18c3" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.FuzzySelectorArgument>
+    <p:InArgument x:TypeArguments="x:String">
+      <p:Literal x:TypeArguments="x:String" Value="" />
+    </p:InArgument>
+  </TargetAnchorable.FuzzySelectorArgument>
+  <imageRef attrName="ImageBase64" xmlns="">0JXzGsRbXhUe6n3gynjd1mQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="46fa9bd046a4a9d99a172abfec28c742.png" xmlns="">0kqeCVXwYaU-4yF066cKvXw</imageRef>
+</TargetAnchorable>

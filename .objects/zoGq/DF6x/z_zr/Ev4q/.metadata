@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Ev4qMHpmM0CYZLelVs1YbA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/Ev4qMHpmM0CYZLelVs1YbA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/z_zrj3uWlkaWucEO-FyD-w",
+  "Name": "UD_CODE_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-04-29T02:54:19.5256521Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T02:54:19.5256521Z"
+}

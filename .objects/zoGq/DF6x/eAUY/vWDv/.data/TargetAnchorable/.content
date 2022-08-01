@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="PipRACRhh0ywOO5GWpp8gw" DesignTimeRectangle="0, 0, 1936, 1056" FriendlyName="'Display data'" Guid="2d2b4582-b412-4096-8a07-0d9d1d8bfe00" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.FuzzySelectorArgument>
+    <p:InArgument x:TypeArguments="x:String">
+      <p:Literal x:TypeArguments="x:String" Value="" />
+    </p:InArgument>
+  </TargetAnchorable.FuzzySelectorArgument>
+  <imageRef attrName="ImageBase64" xmlns="">027BtYimvqEWhrBjvosiHbA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="743effdb2903d1b8e1e4c3549ca78bf7.png" xmlns="">0CbgA9tPDqUCZmVKc0SY3UA</imageRef>
+</TargetAnchorable>

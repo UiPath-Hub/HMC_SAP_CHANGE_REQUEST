@@ -1,0 +1,13 @@
+﻿{
+  "Id": "z6LmqCbvE0Oqw5Azg8OtLA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/z6LmqCbvE0Oqw5Azg8OtLA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/1H8b7-DU8kmJL9FLE52PzQ",
+  "Name": "BATCH",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:13:10.4421639Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:13:10.4421639Z"
+}

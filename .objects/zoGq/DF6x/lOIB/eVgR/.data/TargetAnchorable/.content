@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="_lo-G4H5TkKeu9XdYvhVbw" DesignTimeRectangle="16, 1021, 1887, 27" FriendlyName="'Transfer Order'" FullSelectorArgument="&lt;sap id='sbar/pane[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='sbar/pane[0]' check:text='Transfer Order of this batch60116934  is still ope' /&gt;" Guid="1df69c86-3a67-458a-966b-93da3fdc753c" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Record Usage Decision: Characteristic Overview' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">06y4-wkx8L0Go3B7Nx933Vg</imageRef>
+</TargetAnchorable>

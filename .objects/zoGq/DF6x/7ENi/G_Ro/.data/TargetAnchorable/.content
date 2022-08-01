@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="YWrOzCTpQU6hFn87ADD08Q" DesignTimeRectangle="21, 58, 32, 32" ElementType="Button" FriendlyName="'Button Enter'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" Guid="650f6adb-6088-4682-8c39-1e9eb4c4dc99" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">03zPBoNQXaUKlUVOoI7_1Mw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="629785a6020f526f7babbbc9bd76d86c.png" xmlns="">0wk5PEn-Smkqty-lhxkz8sw</imageRef>
+</TargetAnchorable>

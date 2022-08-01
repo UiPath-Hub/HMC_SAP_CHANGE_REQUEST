@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BnGQ48vQwU2aSVNjzgOKjw" DesignTimeRectangle="23, 134, 34, 35" ElementType="Button" FriendlyName="'Button Execute (F8)'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[8]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[8]' /&gt;" Guid="31d83ee7-8108-4810-9e59-e1b979a7bac0" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Inspection Lot Selection(New)' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0qFy-8K2jWE-PFzcYBw06EA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ab3ee4e1466eb877c86276aeb14f2153.png" xmlns="">0VHHp9ZOFqUiQRN-pM7XtuA</imageRef>
+</TargetAnchorable>

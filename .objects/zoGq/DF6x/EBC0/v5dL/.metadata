@@ -1,0 +1,13 @@
+﻿{
+  "Id": "v5dL7gyAvkmLEIMlme7qbQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/v5dL7gyAvkmLEIMlme7qbQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/EBC017qmOE2NL1X-QBCDAQ",
+  "Name": "YES_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:34:46.7310515Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:34:46.7310515Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Y-NXzh2nLUSTyephcBfopA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/Y-NXzh2nLUSTyephcBfopA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/eAUY6SlzdES5QgcyrmwBFQ",
+  "Name": "SELECT_ROW",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-07-04T19:45:40.2577452Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T03:22:55.4514958Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

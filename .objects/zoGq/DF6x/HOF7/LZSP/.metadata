@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LZSPNQL_1EmNhFWuHVKu_g",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/LZSPNQL_1EmNhFWuHVKu_g",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/HOF7etff1E6T50O9GfJy-w",
+  "Name": "BACK_BUTTON",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-07-05T22:49:53.7687466Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-05T22:50:07.5876892Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

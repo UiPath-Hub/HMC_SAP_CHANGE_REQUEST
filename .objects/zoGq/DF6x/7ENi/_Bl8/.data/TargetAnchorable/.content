@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uF7L38QIhE25adCAH5W1-A" DesignTimeRectangle="258, 238, 155, 26" ElementType="InputBox" FriendlyName="'TextField User name'" FullSelectorArgument="&lt;sap id='usr/txtRSYST-BNAME' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/txtRSYST-BNAME' /&gt;" Guid="d2daf16d-992b-4981-9419-3e3f441d4216" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0M7ICFssI0EynopDGUBmIdQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8c7e6d804c8303a74252ec3e5270028f.png" xmlns="">0vXm-wlmJp0eYBIIrxEw88g</imageRef>
+</TargetAnchorable>

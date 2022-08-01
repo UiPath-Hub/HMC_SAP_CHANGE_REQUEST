@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="AZ0eWT4vYkCsBhGgdyKmRw" DesignTimeRectangle="667, 508, 114, 26" ElementType="Toolbar" FriendlyName="'Choose'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' check:text='Choose' /&gt;" Guid="2d97add2-f426-450b-8d11-578db059a4c0" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='Usage Decision for Inspection Lot' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0-u5qcHewaESaf23MdlL3Ww</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a05c7e69470ea0de1eec47759550afbc.png" xmlns="">0mFvs_sIjy0SGUt3mGQrIAw</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,78 @@
+{
+  "name": "TEST_SAP",
+  "description": "Blank Process",
+  "main": "MainStateMatchine.xaml",
+  "dependencies": {
+    "UiPath.Database.Activities": "[1.6.1]",
+    "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Mail.Activities": "[1.12.3]",
+    "UiPath.System.Activities": "[21.10.4]",
+    "UiPath.UIAutomation.Activities": "[21.10.5]",
+    "UiPath.Word.Activities": "[1.10.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.6.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "7983e69c-f6b2-4218-9829-ad4d22bfd9b3",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "MainStateMatchine.xaml",
+      "uniqueId": "49705c25-a0bd-4d2e-95f0-fa5cbd4087f4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "UD04Test.xaml",
+      "uniqueId": "dd9bb3db-d674-4dc4-92a2-b07e7e3d6dbf",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TryConnectDatabase.xaml",
+      "uniqueId": "981c1f49-7a4b-45df-9fec-d3061b769376",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

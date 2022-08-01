@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="jojs01HAzUOr0eenICDLug" DesignTimeRectangle="687, 173, 984, 23" FriendlyName="'02 - SAP QAS'" FullSelectorArgument="&lt;wnd ctrlid='5003' title='myContainer' /&gt;&lt;wnd ctrlid='1008' /&gt;&lt;ctrl name='02 - SAP QAS' role='list item' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='5003' title='myContainer' /&gt;&lt;wnd ctrlid='1008' /&gt;&lt;ctrl name='02 - SAP QAS' role='list item' automationid='' check:text='02 - SAP QAS' /&gt;" Guid="dd1a7a80-bf86-4ae4-bf7b-450e4e6834fd" Reference="3TCQLlkE2UmeUm09C2YCDA/ixAY5cZtf0WBPDtlArZs-Q" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="687, 150, 984, 23" FriendlyName="'01 - SAP PRD'" FullSelectorArgument="&lt;wnd ctrlid='5003' title='myContainer' /&gt;&lt;wnd ctrlid='1008' /&gt;&lt;ctrl name='01 - SAP PRD' role='list item' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='5003' title='myContainer' /&gt;&lt;wnd ctrlid='1008' /&gt;&lt;ctrl name='01 - SAP PRD' role='list item' automationid='' check:text='01 - SAP PRD' /&gt;" SearchSteps="Selector, FuzzySelector">
+        <imageRef attrName="ImageBase64" xmlns="">1NICtBSeW2kyc1xnLXAb6AA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0-cGBPKr7O0ClGZ2lyvIuEQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="735146a60c704b64ae93e274eb60f308.png" xmlns="">0TAFWxwDjMUy_j-WTKKmAPA</imageRef>
+</TargetAnchorable>

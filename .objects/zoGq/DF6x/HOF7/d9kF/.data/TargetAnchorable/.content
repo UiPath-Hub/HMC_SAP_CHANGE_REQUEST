@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="pdbA58bPSUirBNJVdDXSYw" DesignTimeRectangle="426, 350, 35, 26" ElementType="InputBox" FriendlyName="'CTextField Inspection'" FullSelectorArgument="&lt;sap id='usr/ctxtQL_HERKT-LOW' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/ctxtQL_HERKT-LOW' /&gt;" Guid="7639dd26-f7e9-4242-b944-03c27d8938b6" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Inspection Lot Selection(New)' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0kuFknQ-M_EqdvFHMLRg8jQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4ff0f70aa20d3f8a7295174e63b2d422.png" xmlns="">0GEfQ0m7wAUavqhe9xbBa3A</imageRef>
+</TargetAnchorable>

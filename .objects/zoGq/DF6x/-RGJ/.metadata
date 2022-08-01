@@ -1,0 +1,15 @@
+﻿{
+  "Id": "-RGJhaN4TkqKO5knWGAEUQ",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/-RGJhaN4TkqKO5knWGAEUQ",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "MB1B_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-07-06T06:23:10.5417146Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-06T06:23:29.7633447Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "LeOUFX0roE6J5_nBNXv9YA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/LeOUFX0roE6J5_nBNXv9YA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/bIEZzTLv0Ua1D_6PMUYe-A",
+  "Name": "CLASSIFICATION_TAB",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-29T04:17:22.2621129Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:17:22.2621129Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "NIXTvZaf1U-eplzdmxpwsg",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/NIXTvZaf1U-eplzdmxpwsg",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/7ENigTi3fE-U7mFhwCyEag",
+  "Name": "UD_03_TABLE",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-07-04T19:58:27.4201698Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T19:58:27.4201698Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "_Bl8PJRIIECQZspDLOQKEA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/_Bl8PJRIIECQZspDLOQKEA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/7ENigTi3fE-U7mFhwCyEag",
+  "Name": "USERNAME_INPUT",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-30T09:22:31.3222309Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-30T09:22:31.3222309Z"
+}

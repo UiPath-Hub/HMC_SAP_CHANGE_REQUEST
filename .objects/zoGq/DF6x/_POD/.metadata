@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_PODpA7YCUSZz64afPgpwA",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/_PODpA7YCUSZz64afPgpwA",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "POPUP_UD03",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-07-11T04:13:56.2612376Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-11T04:13:56.2612376Z"
+}

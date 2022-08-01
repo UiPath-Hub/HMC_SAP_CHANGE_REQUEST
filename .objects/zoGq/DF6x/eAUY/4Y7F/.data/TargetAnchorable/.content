@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="bEQdHax4F0ycAb0lnEq8hA" DesignTimeRectangle="266, 48, 26, 26" ElementType="Button" FriendlyName="'Button Back (F3)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[3]' /&gt;" Guid="e4b027ea-b966-4f36-8247-7e026888438f" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display data for inspection lot: Worklist for Inspection Lots' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0czuHcuGl2Um_YJkcBgqhlQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="aa8309ab893f1c42150be795058558f8.png" xmlns="">0MoEQRqP6qkerxR3mtvvaIw</imageRef>
+</TargetAnchorable>

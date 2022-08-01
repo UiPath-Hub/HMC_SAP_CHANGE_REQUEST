@@ -1,0 +1,15 @@
+﻿{
+  "Id": "svZsHP7Gt0-J28OzoQf-xw",
+  "Reference": "3TCQLlkE2UmeUm09C2YCDA/svZsHP7Gt0-J28OzoQf-xw",
+  "ParentRef": "3TCQLlkE2UmeUm09C2YCDA/DF6xYD8BtkK7EuELc8nTEw",
+  "Name": "USAGE_DECISION_INSPECTION_SCREEN",
+  "Type": "Screen",
+  "Created": "2022-04-29T04:02:28.7996345Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-29T04:02:32.5616304Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
